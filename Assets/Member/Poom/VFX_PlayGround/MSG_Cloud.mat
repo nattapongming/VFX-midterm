@@ -33,7 +33,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: _ColorGradRad
+  m_LockedProperties: _Color2 _ColorGradRad
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -51,19 +51,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AlphaClip: 0.1
-    - _ColorGradE1: 0.259
-    - _ColorGradE2: 1
-    - _ColorGradRad: 593.5
+    - _AlphaClip: 0.232
+    - _ColorGradE1: -0.13
+    - _ColorGradE2: 0.52
+    - _ColorGradRad: 974.6
     - _ColorIntensity: 1
     - _CurveRad: 1.622
     - _CurveScale: 19.3
     - _DirX: -0.16
-    - _DirY: 0.2
+    - _DirY: 0.15
     - _Float: 288.9
     - _Mask: 0
-    - _MaskRad: 521.8
-    - _MaskRadE1: 0.158
+    - _MaskRad: 183.7
+    - _MaskRadE1: 0.36
     - _MaskRadE2: 1
     - _NoiseScale: 134.3
     - _NoiseScale2: 15.1
@@ -73,12 +73,12 @@ Material:
     - _Rad: 604.3
     - _RadE1: 0.2
     - _RadE2: 1
-    - _Speed: 0.05
+    - _Speed: 0.15
     m_Colors:
-    - _BaseCol: {r: 0.26777634, g: 0.24877118, b: 0.78715664, a: 0}
-    - _Color: {r: 0, g: 0.0667472, b: 6.422234, a: 0}
-    - _Color2: {r: 6.4222345, g: 0, b: 3.9821093, a: 0}
-    - _MaskPos: {r: 0, g: 364.2, b: -352.4, a: 0}
+    - _BaseCol: {r: 0.3594444, g: 0.03921567, b: 0.54901963, a: 0}
+    - _Color: {r: 12.125731, g: 0.17159022, b: 0.4219364, a: 0}
+    - _Color2: {r: 8.47419, g: 0, b: 5.254425, a: 0}
+    - _MaskPos: {r: 0, g: 364.2, b: -300.82, a: 0}
     - _NoiseTiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
