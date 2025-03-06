@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MSG_Cloud
+  m_Name: MSG_Cloud 1
   m_Shader: {fileID: -6465566751694194690, guid: d87c01a1d62ef7a4ab9436772cf0d34c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -33,7 +33,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _Color2 _ColorGradRad
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -52,9 +52,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _ColorGradE1: -0.13
-    - _ColorGradE2: 0.52
-    - _ColorGradRad: 974.6
+    - _ColorGradE1: -0.14
+    - _ColorGradE2: 1
+    - _ColorGradRad: 168.8
     - _ColorIntensity: 1
     - _CurveRad: 1.622
     - _CurveScale: 19.3
@@ -62,12 +62,12 @@ Material:
     - _DirY: 0.15
     - _Float: 288.9
     - _Mask: 0
-    - _MaskRad: 369.5
+    - _MaskRad: 0
     - _MaskRadE1: 0.36
     - _MaskRadE2: 1
-    - _NoiseScale: 164.4
-    - _NoiseScale2: 91.1
-    - _NoiseStr: 36.3
+    - _NoiseScale: 50
+    - _NoiseScale2: 30
+    - _NoiseStr: 5
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rad: 604.3
@@ -75,10 +75,10 @@ Material:
     - _RadE2: 1
     - _Speed: 0.15
     m_Colors:
-    - _BaseCol: {r: 0.3594444, g: 0.03921567, b: 0.54901963, a: 0}
-    - _Color: {r: 12.125731, g: 0.17159022, b: 0.4219364, a: 0}
-    - _Color2: {r: 8.47419, g: 0, b: 5.254425, a: 0}
-    - _MaskPos: {r: 0, g: 364.2, b: -300.82, a: 0}
+    - _BaseCol: {r: 0.8027793, g: 0.8027793, b: 0.8027793, a: 0}
+    - _Color: {r: 6.4851146, g: 0, b: 7.1825943, a: 0}
+    - _Color2: {r: 5.9921575, g: 0, b: 5.8296723, a: 0}
+    - _MaskPos: {r: 0, g: 0, b: 42.9, a: 0}
     - _NoiseTiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
