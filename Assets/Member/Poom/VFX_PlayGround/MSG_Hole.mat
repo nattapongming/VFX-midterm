@@ -52,13 +52,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float: -25.6
-    - _Height: -16.06
+    - _Height: -84.9
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _Color: {r: 26.43141, g: 0, b: 27.53272, a: 0}
     - _InsideCol: {r: 1, g: 1, b: 1, a: 0}
     - _InsideColor: {r: 89.30097, g: 0, b: 61.41579, a: 0}
-    - _IntersectCol: {r: 0.008367882, g: 0, b: 1.0183798, a: 0}
+    - _IntersectCol: {r: 0.001074492, g: 0, b: 0.102612615, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
