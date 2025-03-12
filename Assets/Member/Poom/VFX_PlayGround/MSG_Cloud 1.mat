@@ -52,10 +52,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _ColorGradE1: -0.14
-    - _ColorGradE2: 1
-    - _ColorGradRad: 168.8
-    - _ColorIntensity: 1
+    - _AlphaMul: 0.7
+    - _ColorGradE1: -0.073
+    - _ColorGradE2: 0.688
+    - _ColorGradRad: 204.4
+    - _ColorIntensity: 2.15
     - _CurveRad: 1.622
     - _CurveScale: 19.3
     - _DirX: -0.16
@@ -65,9 +66,9 @@ Material:
     - _MaskRad: 0
     - _MaskRadE1: 0.36
     - _MaskRadE2: 1
-    - _NoiseScale: 50
-    - _NoiseScale2: 30
-    - _NoiseStr: 5
+    - _NoiseScale: 79.2
+    - _NoiseScale2: 66.7
+    - _NoiseStr: 8.7
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rad: 604.3
